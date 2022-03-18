@@ -16,6 +16,7 @@
 		BE2C5DB027E4305200F9FB60 /* swift_projectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2C5DAF27E4305200F9FB60 /* swift_projectTests.swift */; };
 		BE2C5DBA27E4305200F9FB60 /* swift_projectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2C5DB927E4305200F9FB60 /* swift_projectUITests.swift */; };
 		BE2C5DBC27E4305200F9FB60 /* swift_projectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2C5DBB27E4305200F9FB60 /* swift_projectUITestsLaunchTests.swift */; };
+		BE2C5DC927E4339500F9FB60 /* 资料 in Resources */ = {isa = PBXBuildFile; fileRef = BE2C5DC827E4339500F9FB60 /* 资料 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BE2C5DB527E4305200F9FB60 /* swift_projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swift_projectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE2C5DB927E4305200F9FB60 /* swift_projectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_projectUITests.swift; sourceTree = "<group>"; };
 		BE2C5DBB27E4305200F9FB60 /* swift_projectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_projectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BE2C5DC827E4339500F9FB60 /* 资料 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "资料"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		BE2C5D8C27E4304E00F9FB60 = {
 			isa = PBXGroup;
 			children = (
+				BE2C5DC827E4339500F9FB60 /* 资料 */,
 				BE2C5D9727E4304F00F9FB60 /* swift_project */,
 				BE2C5DAE27E4305200F9FB60 /* swift_projectTests */,
 				BE2C5DB827E4305200F9FB60 /* swift_projectUITests */,
@@ -234,6 +237,7 @@
 				BE2C5DA527E4305100F9FB60 /* LaunchScreen.storyboard in Resources */,
 				BE2C5DA227E4305100F9FB60 /* Assets.xcassets in Resources */,
 				BE2C5DA027E4304F00F9FB60 /* Main.storyboard in Resources */,
+				BE2C5DC927E4339500F9FB60 /* 资料 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
